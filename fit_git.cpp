@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout<<"FIRStGIT";
+    cout<<"First GIT";
 
 }
